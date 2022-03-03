@@ -7,6 +7,8 @@ namespace solution4
         static void Main(string[] args)
         {
             int a = 54000;
+            if (a < 10000 || a >= 100000) ;
+            Console.WriteLine("5reqemlidir");
             int b = 18;
             int c = a * 100 / b;
             Console.WriteLine(c);
