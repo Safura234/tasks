@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\bin\Debug\net5.0\solution8.exe
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\bin\Debug\net5.0\solution8.deps.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\bin\Debug\net5.0\solution8.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\bin\Debug\net5.0\solution8.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\bin\Debug\net5.0\solution8.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\bin\Debug\net5.0\solution8.pdb
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\refint\solution8.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.pdb
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\solution8.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\Solution8\solution8\obj\Debug\net5.0\ref\solution8.dll
