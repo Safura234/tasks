@@ -13,7 +13,7 @@ namespace solution8
             int c = 1234 * 100 / 4;
             Console.WriteLine(c);
             int d = 5678900;
-            if (a < 1000000 || a >= 10000000) ;
+            if (d < 1000000 || d >= 10000000) ;
             Console.WriteLine("7reqemlidir");
             int e = 9;
             int f = 5678900 * 100 / 9;
