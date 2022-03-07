@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\bin\Debug\net5.0\solution2.exe
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\bin\Debug\net5.0\solution2.deps.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\bin\Debug\net5.0\solution2.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\bin\Debug\net5.0\solution2.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\bin\Debug\net5.0\solution2.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\bin\Debug\net5.0\solution2.pdb
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\refint\solution2.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.pdb
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\solution2.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\solution2\solution2\obj\Debug\net5.0\ref\solution2.dll

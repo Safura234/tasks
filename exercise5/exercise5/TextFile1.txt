@@ -1,0 +1,12 @@
+﻿start program task_1
+set a = 4444; b = 40000;  
+compute c = a +b
+print c
+init d = 44
+compute e = c * 100 + d
+print e
+compute f = e * 100 / d
+print f 
+
+
+end program
